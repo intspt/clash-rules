@@ -4,3 +4,4 @@ payload:
   - '+.po18.info'
   - '+.fqbook.cc'
   - '+.永远的神.com'
+  - '+.55yydstxt426.com'
