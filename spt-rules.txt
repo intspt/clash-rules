@@ -6,3 +6,5 @@ payload:
   - '+.永远的神.com'
   - '+.55yydstxt426.com'
   - '+.wowhead.com'
+  - '+.static-ecst.licdn.com'
+  - '+.zamimg.com'
