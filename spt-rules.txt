@@ -9,3 +9,4 @@ payload:
   - '+.static-ecst.licdn.com'
   - '+.zamimg.com'
   - 'services.googleapis.cn'
+  - '+.xn--ngstr-lra8j.com'
