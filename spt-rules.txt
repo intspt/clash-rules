@@ -8,3 +8,4 @@ payload:
   - '+.wowhead.com'
   - '+.static-ecst.licdn.com'
   - '+.zamimg.com'
+  - 'services.googleapis.cn'
