@@ -1,3 +1,4 @@
 payload:
   - '+.pangolin-sdk-toutiao.com'
   - '+.gdt.qq.com'
+  - '+.sdk.e.qq.com'
